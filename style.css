@@ -231,7 +231,7 @@ img {
 
 
 .portfolio-photo {
-    max-block-size: 200px;
+    max-block-size: 300px;
     
 }
 
@@ -249,7 +249,7 @@ img {
 
 .text-center {
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
     
 }
 
@@ -281,14 +281,8 @@ section {
     height: fit-content;
 }
 
-.box-komp {
-    height: 350px;
-    width: 450px;
-    background-color: #E5CCB1;
-    z-index: 2;
-    margin-top: 0px;
-    margin-left: -100px;
-    padding: 25px;
+.text-ma {
+    padding: 1.5em;
 }
 
 .stack-top {
