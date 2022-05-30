@@ -30,7 +30,7 @@ header {
     top: 0;
     left: 0;
     margin-left: 1em;
-    height: 25%;
+    height: 18%;
     display: flex;
     align-items: center;
 }
@@ -63,7 +63,7 @@ header {
 nav {
     position: absolute;
     text-align: left;
-    top: 18%;
+    top: 12%;
     left: 0;
     background: var(--clr-primary-200);
     width: 100%;
@@ -384,7 +384,7 @@ footer {
    color: var(--clr-primary-100);
 }
 
-
+.font-size
 
 
 
@@ -460,4 +460,5 @@ footer {
 .bg-grey h2,
 .bg-light h2 {
     color: var(--clr-neutral-900);
+}
 }
